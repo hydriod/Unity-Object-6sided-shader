@@ -1,4 +1,5 @@
 // Unity built-in shader source. Copyright (c) 2016 Unity Technologies. MIT license (see license.txt)
+// Copyright (c) 2021 hydriod MIT license (see license.txt)
 Shader "Unlit/Obj 6sided"
 {
     Properties
