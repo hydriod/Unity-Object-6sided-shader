@@ -1,6 +1,6 @@
 # Unity-Object-6sided-shader
 
-6 sided hader and shader graph that can use for object.<br>
+6 sided shader and shader graph that can use for object.<br>
 ![demo](https://github.com/hydriod/Unity-Object-6sided-shader/blob/image/demo.gif)
 
 ## Example of use
