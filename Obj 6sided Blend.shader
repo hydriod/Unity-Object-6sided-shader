@@ -13,6 +13,9 @@ Shader "Unlit/Obj 6sided"
         [NoScaleOffset] _UpTex ("Up [+Y]   (HDR)", 2D) = "grey" {}
         [NoScaleOffset] _DownTex ("Down [-Y]   (HDR)", 2D) = "grey" {}
     }
+
+    CustomEditor "ShaderGUI_6sided"
+    
     SubShader
     {
         Tags { "Queue"="Transparent-1" "RenderType"="Transparent" }
