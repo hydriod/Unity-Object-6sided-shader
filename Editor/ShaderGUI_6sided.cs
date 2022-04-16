@@ -62,7 +62,7 @@ public class ShaderGUI_6sided : ShaderGUI
             {
                 EditorGUI.indentLevel = 1;
                 srcBlendMode = (BlendMode)EditorGUILayout.EnumPopup("Blend Source", srcBlendMode);
-                dstBlendMode = (BlendMode)EditorGUILayout.EnumPopup("Blend Source", dstBlendMode);
+                dstBlendMode = (BlendMode)EditorGUILayout.EnumPopup("Blend Destination", dstBlendMode);
             }
             customBlendModeChanged = scopeChanged.changed;
         }
