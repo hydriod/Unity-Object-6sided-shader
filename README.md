@@ -15,12 +15,12 @@
 
     If There's not a mode you want to use, select "Custom".<br>
     ![Custom Mode](https://raw.githubusercontent.com/hydriod/Unity_Object_6sided_shader/image/CustomMode1.png)<br>
-    you can set srcBlend and dstBlend.
+    you can set srcBlend and dstBlend.<br>
     ![Select Blend](https://raw.githubusercontent.com/hydriod/Unity_Object_6sided_shader/image/CustomMode2.png)
 
     </details><br>
 
-3.  Set Texture and Alpha Texture
+3.  Set Texture and Alpha Texture<br>
     ![Inspector](https://raw.githubusercontent.com/hydriod/Unity_Object_6sided_shader/image/Inspector.png)
 
 ## Example of use
